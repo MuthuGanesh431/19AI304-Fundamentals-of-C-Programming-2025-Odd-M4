@@ -14,10 +14,9 @@
 
 **Date : 06/05/2026**
 
-## Aim
+Aim:
 
-To implement a C program that validates a user-entered date using a function without parameters and without return value, ensuring the correctness of day, month, year, and leap year conditions.
-
+To implement a C program to read a date in the format DD/MM/YYYY and determine whether the entered date is valid using a function without parameters and without return value, ensuring the correctness of day, month, year, and leap year conditions.
 ---
 
 ## Algorithm
